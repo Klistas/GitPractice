@@ -1,3 +1,11 @@
 Hello, Git!!!
 Hello, Git!!
+<<<<<<< HEAD
 Hello, Git!!Hello, Git!!
+=======
+Hello, Git!!
+Hello, Git!!
+Hello, Git!!
+Hello, Git!!
+Hello, Git!!
+>>>>>>> foo
